@@ -64,6 +64,8 @@ width: 200%;
 }
 
 .large {
-  width: 90%;
-  height: 90%;
+  width: 300%;
+  height: 300%;
+  border: 2px solid black;
+
 }
